@@ -1,9 +1,9 @@
-#tidalhelper
+# tidalhelper
 
-##about
+## about
 tidalhelper is a command line utility for automatically organizing large collections of audio samples into folders for use with tidalcycles.
 
-##installation/usage
+## installation/usage
 * install python3
 * open a terminal and run `git clone https://github.com/isaacpearl/tidal-helper`
 * run `cd tidal-helper` to navigate to the project folder
@@ -14,7 +14,7 @@ tidalhelper is a command line utility for automatically organizing large collect
 * move `tidal_samples/` to wherever you keep your tidalcycles samples
 * ♫♫♫♫♫♫♫♫
 
-##roadmap
+## roadmap
 * arbitrary filenames as input (no underscores required)
 * distribute package with `pip`
 * output guide to new folders (`.txt` or print) and their contents
