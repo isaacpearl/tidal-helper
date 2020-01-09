@@ -16,6 +16,7 @@ tidalhelper is a command line utility for automatically organizing large collect
 
 ## roadmap
 * arbitrary filenames as input (no underscores required)
+* add unit tests
 * distribute package with `pip`
 * output guide to new folders (`.txt` or print) and their contents
 * design specific sample naming convention including category/key/bpm, and add reorganization functionality (e.g. being able to reorganize folder structure based on sample group, key, bpm with flags - no sample renaming needed)
