@@ -5,7 +5,7 @@ from shutil import copyfile
 
 def organize(files):
     folders = {} #key = prefix, value = list of filenames
-    files.sort()
+    #files.sort()
     for i in range(len(files)):
         prefix = files[i].split('_')[0] #assume all files start with desired folder name, then underscore  
         if prefix in folders:
